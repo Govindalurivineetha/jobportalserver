@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "67547f88377700d31de6a368"
+  },
+  "PORT=3000": "MONGO_URI=mongodb://localhost:27017"
+},
+{
+  "_id": {
+    "$oid": "67547f88377700d31de6a369"
+  },
+  "PORT=3000": "JWT_SECRET=your_secret_key"
+}]
